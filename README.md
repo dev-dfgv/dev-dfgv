@@ -1,4 +1,10 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Diego%20-%20Web%20Developer&fontSize=40&fontColor=ffffff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Diego;Web+Developer;React+%7C+Next.js+%7C+Node.js)
+
+<!--
+<p align="center">
+  <img src="assets/profile.jpg" width="150" style="border-radius: 50%;" />
+</p>
+-->
 
 # 👋 Hi, I'm Diego
 
@@ -28,23 +34,3 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-
----
-
-## 📌 About Me
-
-- 👨‍💻 I build web applications using React, Next.js and Node.js
-- 🗄️ I work with both relational and non-relational databases
-- ⚙️ I use ORMs and REST APIs
-- 🐧 Comfortable working in Linux environments
-- 🎯 Goal: create useful and scalable software
-
----
-
-## 📫 Contact
-
-📧 Email: yourmail@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-
----
-⭐ Thanks for visiting my profile!
