@@ -6,8 +6,6 @@
 </p>
 -->
 
-# 👋 Hi, I'm Diego
-
 💻 Web Developer focused on modern technologies  
 📍 Guatemala  
 🚀 I enjoy building functional and scalable applications  
