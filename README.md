@@ -1,13 +1,15 @@
-# ¡Hola! Soy Diego
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Diego%20-%20Web%20Developer&fontSize=40&fontColor=ffffff)
 
-💻 Desarrollador enfocado en tecnologías web 
-📍 Guatemala
-🚀 Me gusta construir aplicaciones funcionales y escalables  
-🧠 Siempre aprendiendo sobre nuevas tecnologías y buenas prácticas
+# 👋 Hi, I'm Diego
+
+💻 Web Developer focused on modern technologies  
+📍 Guatemala  
+🚀 I enjoy building functional and scalable applications  
+🧠 Always learning about new tools and best practices
 
 ---
 
-## Tecnologías y herramientas
+## 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
@@ -17,37 +19,32 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=express)
 
-### Bases de datos
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
-### Otros
+### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 
 ---
 
-## Sobre mí
+## 📌 About Me
 
-- 👨‍💻 Desarrollo aplicaciones web usando React, Next.js y Node.js
-- 🗄️ Trabajo con bases de datos relacionales y no relacionales
-- ⚙️ Uso ORMs y APIs REST
-- 🐧 Me siento cómodo trabajando en entornos Linux
-- 🎯 Objetivo: crear software útil y escalable
-
----
-
-## Estadísticas de GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dev-dfgv&show_icons=true&theme=tokyonight)
+- 👨‍💻 I build web applications using React, Next.js and Node.js
+- 🗄️ I work with both relational and non-relational databases
+- ⚙️ I use ORMs and REST APIs
+- 🐧 Comfortable working in Linux environments
+- 🎯 Goal: create useful and scalable software
 
 ---
 
-## Contacto
+## 📫 Contact
 
-📧 Email: dfgarciavicete@gmail.com  
+📧 Email: yourmail@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
-⭐ Gracias por visitar mi perfil
+⭐ Thanks for visiting my profile!
